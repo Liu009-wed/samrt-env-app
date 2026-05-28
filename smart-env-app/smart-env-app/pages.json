@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {"path": "pages/index/index", "style": {"navigationBarTitleText": "诚信回收"}},
+    {"path": "pages/order/order", "style": {"navigationBarTitleText": "订单"}},
+    {"path": "pages/company/company", "style": {"navigationBarTitleText": "公司回收"}},
+    {"path": "pages/mine/mine", "style": {"navigationBarTitleText": "我的"}},
+    {"path": "pages/category/category", "style": {"navigationBarTitleText": "回收分类"}},
+    {"path": "pages/category-result/category-result", "style": {"navigationBarTitleText": "分类查询结果"}},
+    {"path": "pages/login/login", "style": {"navigationBarTitleText": "登录"}},
+    {"path": "pages/register/register", "style": {"navigationBarTitleText": "注册"}},
+    {"path": "pages/place-order/place-order", "style": {"navigationBarTitleText": "下单页"}},
+    {"path": "pages/company-detail/company-detail", "style": {"navigationBarTitleText": "公司详情"}},
+    {"path": "pages/order-detail/order-detail", "style": {"navigationBarTitleText": "订单详情"}},
+    {"path": "pages/company-search/company-search", "style": {"navigationBarTitleText": "公司搜索结果"}},
+    {"path": "pages/setting/setting", "style": {"navigationBarTitleText": "设置"}},
+    {"path": "pages/shop/shop", "style": {"navigationBarTitleText": "积分商城"}}
+  ],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {"pagePath": "pages/index/index", "text": "首页"},
+      {"pagePath": "pages/order/order", "text": "订单"},
+      {"pagePath": "pages/company/company", "text": "公司回收"},
+      {"pagePath": "pages/mine/mine", "text": "我的"}
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "智慧环保",
+    "navigationBarBackgroundColor": "#F8F8F8"
+  }
+}

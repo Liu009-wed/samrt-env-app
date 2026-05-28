@@ -1,0 +1,425 @@
+{
+  "types": [
+    {
+      "id": "1",
+      "parentId": 0,
+      "icon": "",
+      "name": "废纸",
+      "unitPrice": 0
+    },
+    {
+      "id": "2",
+      "parentId": 0,
+      "icon": "",
+      "name": "塑料",
+      "unitPrice": 0
+    },
+    {
+      "id": "3",
+      "parentId": 0,
+      "icon": "",
+      "name": "金属",
+      "unitPrice": 0
+    },
+    {
+      "id": "4",
+      "parentId": 0,
+      "icon": "",
+      "name": "纺织品",
+      "unitPrice": 0
+    },
+    {
+      "id": "5",
+      "parentId": 0,
+      "icon": "",
+      "name": "家电",
+      "unitPrice": 0
+    },
+    {
+      "id": "101",
+      "parentId": 1,
+      "icon": "/image/type/101.jpg",
+      "name": "报纸",
+      "unitPrice": 10
+    },
+    {
+      "id": "102",
+      "parentId": 1,
+      "icon": "/image/type/102.jpg",
+      "name": "书籍",
+      "unitPrice": 6
+    },
+    {
+      "id": "103",
+      "parentId": 1,
+      "icon": "/image/type/103.jpg",
+      "name": "纸箱",
+      "unitPrice": 10
+    },
+    {
+      "id": "201",
+      "parentId": 2,
+      "icon": "/image/type/201.jpg",
+      "name": "水瓶",
+      "unitPrice": 3
+    },
+    {
+      "id": "202",
+      "parentId": 2,
+      "icon": "/image/type/202.jpg",
+      "name": "桶",
+      "unitPrice": 1
+    },
+    {
+      "id": "203",
+      "parentId": 2,
+      "icon": "/image/type/203.jpg",
+      "name": "塑料袋",
+      "unitPrice": 2
+    },
+    {
+      "id": "204",
+      "parentId": 2,
+      "icon": "/image/type/204.jpg",
+      "name": "农用地膜",
+      "unitPrice": 2
+    },
+    {
+      "id": "205",
+      "parentId": 2,
+      "icon": "/image/type/205.jpg",
+      "name": "泡沫塑料",
+      "unitPrice": 2
+    },
+    {
+      "id": "206",
+      "parentId": 2,
+      "icon": "/image/type/206.jpg",
+      "name": "塑料编织品",
+      "unitPrice": 3
+    },
+    {
+      "id": "301",
+      "parentId": 3,
+      "icon": "/image/type/301.jpg",
+      "name": "铜丝",
+      "unitPrice": 20
+    },
+    {
+      "id": "302",
+      "parentId": 3,
+      "icon": "/image/type/302.jpg",
+      "name": "铁制品",
+      "unitPrice": 22
+    },
+    {
+      "id": "303",
+      "parentId": 3,
+      "icon": "/image/type/303.jpg",
+      "name": "废钢筋",
+      "unitPrice": 30
+    },
+    {
+      "id": "304",
+      "parentId": 3,
+      "icon": "/image/type/304.jpg",
+      "name": "不锈钢",
+      "unitPrice": 0
+    },
+    {
+      "id": "305",
+      "parentId": 3,
+      "icon": "/image/type/305.jpg",
+      "name": "废银锌电池",
+      "unitPrice": 0
+    },
+    {
+      "id": "401",
+      "parentId": 4,
+      "icon": "/image/type/401.jpg",
+      "name": "羽绒服",
+      "unitPrice": 0
+    },
+    {
+      "id": "402",
+      "parentId": 4,
+      "icon": "/image/type/402.jpg",
+      "name": "毛衣",
+      "unitPrice": 0
+    },
+    {
+      "id": "403",
+      "parentId": 4,
+      "icon": "/image/type/403.jpg",
+      "name": "棉絮",
+      "unitPrice": 0
+    },
+    {
+      "id": "404",
+      "parentId": 4,
+      "icon": "/image/type/404.jpg",
+      "name": "上衣",
+      "unitPrice": 0
+    },
+    {
+      "id": "405",
+      "parentId": 4,
+      "icon": "/image/type/405.jpg",
+      "name": "裤子",
+      "unitPrice": 0
+    },
+    {
+      "id": "406",
+      "parentId": 4,
+      "icon": "/image/type/406.jpg",
+      "name": "裙子",
+      "unitPrice": 0
+    },
+    {
+      "id": "501",
+      "parentId": 5,
+      "icon": "/image/type/501.jpg",
+      "name": "电视机",
+      "unitPrice": 30
+    },
+    {
+      "id": "502",
+      "parentId": 5,
+      "icon": "/image/type/502.jpg",
+      "name": "空调",
+      "unitPrice": 30
+    },
+    {
+      "id": "503",
+      "parentId": 5,
+      "icon": "/image/type/503.jpg",
+      "name": "冰箱",
+      "unitPrice": 30
+    },
+    {
+      "id": "504",
+      "parentId": 5,
+      "icon": "/image/type/504.jpg",
+      "name": "洗衣机",
+      "unitPrice": 30
+    },
+    {
+      "id": "505",
+      "parentId": 5,
+      "icon": "/image/type/505.jpg",
+      "name": "电脑",
+      "unitPrice": 30
+    },
+    {
+      "id": "506",
+      "parentId": 5,
+      "icon": "/image/type/506.jpg",
+      "name": "微波炉",
+      "unitPrice": 30
+    },
+    {
+      "id": "507",
+      "parentId": 5,
+      "icon": "/image/type/507.jpg",
+      "name": "烤箱",
+      "unitPrice": 30
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "phoneNum": "15671683679",
+      "nickName": "xiaoyu",
+      "password": "123456",
+      "avatar": "/image/avatar/3.jpeg",
+      "typeid": 1
+    },
+    {
+      "phoneNum": "15671683671",
+      "nickName": "uuu",
+      "password": "567",
+      "avatar": "/image/avatar/3.jpeg",
+      "id": "2",
+      "typeid": 2
+    },
+    {
+      "phoneNum": "15671683678",
+      "nickName": "xiaoyu",
+      "password": "123456",
+      "avatar": "/image/avatar/3.jpeg",
+      "typeid": 1,
+      "id": "3"
+    },
+    {
+      "phoneNum": "15671680000",
+      "nickName": "xxxx",
+      "password": "123456",
+      "avatar": "/image/avatar/4.jpeg",
+      "typeid": 1,
+      "id": "4"
+    },
+    {
+      "phoneNum": "15911223344",
+      "nickName": "小黑鱼",
+      "password": "123456",
+      "avatar": "/image/avatar/6.jpeg",
+      "typeid": "1",
+      "id": "5"
+    },
+    {
+      "phoneNum": "12345678900",
+      "nickName": "小明",
+      "password": "123456",
+      "avatar": "/image/avatar/2.jpeg",
+      "typeid": "1",
+      "id": "6"
+    },
+    {
+      "phoneNum": "12345678901",
+      "nickName": "小芳",
+      "password": "123456",
+      "avatar": "/image/avatar/5.jpeg",
+      "typeid": "1",
+      "id": "7"
+    },
+    {
+      "phone": "19840409956",
+      "password": "123456",
+      "name": "用户1",
+      "role": "user",
+      "totalIncome": 0,
+      "recycleCount": 0,
+      "points": 0,
+      "id": "D9kHXBUgcLI"
+    }
+  ],
+  "hotDots": [
+    {
+      "id": "1",
+      "image": "/image/swt1.jpg",
+      "title": ""
+    },
+    {
+      "id": "2",
+      "image": "/image/swt2.jpg",
+      "title": ""
+    },
+    {
+      "id": "3",
+      "image": "/image/swt3.jpg",
+      "title": ""
+    }
+  ],
+  "actions": [
+    {
+      "id": "1",
+      "content": "红牌洗衣液可以洗羊毛衫、羽绒服、棉质品等。",
+      "coverUrl": "/image/xiyiye.jpg",
+      "title": "200积分限时500ml浓缩洗衣液，快来抢购！"
+    },
+    {
+      "id": "2",
+      "content": "手机保护壳不仅作为装饰品让您的手机成为一道风景，更能保护手机，防摔、防刮、防水和防震。手机壳发展到2013年，已不再是单纯的实用商品。",
+      "coverUrl": "/image/milaoshu.jpg",
+      "title": "1积分限时兑换米老鼠手机壳！"
+    },
+    {
+      "id": "3",
+      "content": "毛巾有很多品种，但是一般可以分类为浴巾、面巾、方巾和地巾以及沙滩巾等。",
+      "coverUrl": "/image/maojin.jpg",
+      "title": "100积分限时兑换毛巾3条！"
+    },
+    {
+      "id": "4",
+      "content": "猫粮也称猫食，是宠物猫吃的食物的总称。猫粮可锻炼并清洁猫咪牙齿，某种程度上具有口腔保健功效。优质猫粮一般注意营养均衡，能够保证猫咪日常对高等蛋白质及微量元素的需求。",
+      "coverUrl": "/image/maoliang.jpg",
+      "title": "100积分=1袋猫粮！"
+    }
+  ],
+  "companys": [
+    {
+      "id": "1",
+      "address": "湖北武汉光谷民族大道下线村100米处",
+      "contact": "1841XXXXXXX",
+      "coverUrl": "/image/company1.jpg",
+      "introduction": "再生资源回收以物资不断循环利用的经济发展模式，正在成为全球潮流。可持续发展的战略，得到大家一致同意。可持续发展就是，既符合当代人类的需求，又不致损害后代人满足其需求能力的发展，是我们在注意经济增长的数量，同时要注意追求经济增长的质量。主要的标志是资源能够永远利用，保持良好的生态环境。",
+      "name": "信昌废旧物资回收公司",
+      "score": 1
+    },
+    {
+      "id": "2",
+      "address": "高新五路100米处",
+      "contact": "1567XXXXXX",
+      "coverUrl": "/image/company2.jpg",
+      "introduction": "再生资源回收以物资不断循环利用的经济发展模式，正在成为全球潮流。可持续发展的战略，得到大家一致同意。可持续发展就是，既符合当代人类的需求，又不致损害后代人满足其需求能力的发展，是我们在注意经济增长的数量，同时要注意追求经济增长的质量。主要的标志是资源能够永远利用，保持良好的生态环境。",
+      "name": "信昌再生物资回收公司",
+      "score": 1
+    },
+    {
+      "id": "3",
+      "address": "汉口宝丰路车站100米处",
+      "contact": "1592XXXXXXX",
+      "coverUrl": "/image/company3.jpg",
+      "introduction": "再生资源回收以物资不断循环利用的经济发展模式，正在成为全球潮流。可持续发展的战略，得到大家一致同意。可持续发展就是，既符合当代人类的需求，又不致损害后代人满足其需求能力的发展，是我们在注意经济增长的数量，同时要注意追求经济增长的质量。主要的标志是资源能够永远利用，保持良好的生态环境。",
+      "name": "时代回收公司",
+      "score": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "companyName": "时代回收公司",
+      "createby": "小明",
+      "createTime": "2022-03-15 10:35:58",
+      "pickupTime": "14:00-16:00",
+      "pickupAddress": "武汉市江夏区蜜糖镇",
+      "goodNumber": 3,
+      "goodUnitPrice": 2,
+      "goodTypeName": "牛仔裤",
+      "coverUrl": "/image/1.jpg",
+      "contact": "15671680000",
+      "remark": "",
+      "pkgs": 12,
+      "state": 1,
+      "companyId": 3,
+      "userId": 1
+    },
+    {
+      "state": 0,
+      "id": "2"
+    },
+    {
+      "createby": "小红",
+      "createTime": "2023-01-15 15:46:05",
+      "pickupTime": "14:00-16:00",
+      "pickupAddress": "湖北武汉江夏区",
+      "goodNumber": "4",
+      "goodUnitPrice": 2.3,
+      "goodTypeName": "纸箱",
+      "coverUrl": "/image/order/paper.jpeg",
+      "contact": "12345600000",
+      "remark": "",
+      "pkgs": "3",
+      "state": 1,
+      "userId": 1,
+      "id": "9"
+    },
+    {
+      "createby": "小红",
+      "createTime": "2023-01-15 15:46:05",
+      "pickupTime": "14:00-16:00",
+      "pickupAddress": "湖北武汉江夏区",
+      "goodNumber": "4",
+      "goodUnitPrice": 2.3,
+      "goodTypeName": "纸箱",
+      "coverUrl": "/image/order/paper.jpeg",
+      "contact": "12345600000",
+      "remark": "",
+      "pkgs": "3",
+      "state": 1,
+      "userId": 7,
+      "id": "9"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
